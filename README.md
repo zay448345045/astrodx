@@ -59,3 +59,4 @@ Open an issue [here](https://github.com/2394425147/astrodx/issues), or join our 
 > 我們强烈建議提供英文翻譯（或綫上翻譯），以便其他人理解，并幫助到你。我們也建議搜索現有的issue，以避免重複或疑慮。
 
 在[這裏](https://github.com/2394425147/astrodx/issues)提交你的issue，或在我們的[Discord伺服器](https://discord.gg/6fpETgpvjZ)上一起討論。
+[![Total Downloads](https://img.shields.io/github/downloads/zay448345045/astrodx/total?style=for-the-badge&color=2ea44f&logo=github)](https://github.com/zay448345045/astrodx/releases)
